@@ -1,0 +1,141 @@
+![alt text][logo]
+
+  [logo]:https://github.com/CherishOS/android_manifest/blob/tiramisu/assets/cherish.png ""
+* Below features are as of Sep 09 2022 in the CherishOS source.
+* Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
+
+General
+----------
+* Always latest Android 13
+* Pixel look and feel
+* OTA notification for officially supported devices
+* Optimized Art and Bionic
+* Updated libraries for better performance and security
+* Many under the hood changes for best exeperience!
+
+Status Bar
+----------
+* Icons
+    * Status Bar icons toggle
+    * Clock style
+    * Clock & date customization
+    * Network Traffic monitor and customization
+    * Old style signal icon
+    * Data disabled indicator
+    * 4G icon toggle
+    * Roaming indicator toggle
+    * VoLTE style toggle
+* Battery customization
+    * Battery style and percentage customization
+    * Battery bar customization
+* Gestures
+    * Tap to sleep toggle
+
+Quick Settings
+----------
+* Interface
+    * Qs Transparency Settings
+    * Toggle-able QS style
+    * qs tiles/layout customizations
+    * QS Clock font size
+    * QS Date toggle
+* Miscellaneous
+    * Clock toggle
+    * Date toggle
+    * Battery style
+    * Battery percentage
+    * Battery estimate
+    * Auto brightness toggle
+    * Brightness control
+    * Quick pulldown
+* Footer
+    * Data usauge toggle
+
+Lock Screen
+----------
+* Interface
+    * Media cover art toggle
+    * Media cover art filter
+    * Battery info toggle
+    * Tap to sleep toggle
+    * Edge light customizations
+    * Scheduling always on display
+    
+* Misc
+    * Disable power menu on secure lockscreen
+    * Hide status bar on secure lockscreen
+
+Buttons
+----------
+* Navigation bar toggle
+* Layout
+    * Show arrow keys while typing
+    * Layout
+      * Normal
+      * Compact
+      * Left-leaning
+      * Right-leaning
+    * Invert layout
+    * Back long press action
+    * Home long press action
+    * Home double tap action
+    * Recents long press action
+* Volume buttons
+    * Volume steps customization
+    * Wake device with HW non-capacitive button
+    * Control playback with volume buttons
+    * Keyboard cursor control with volume buttons
+    * Reorient volume keys on rotation change
+
+Power
+----------
+* Power button
+  * Power menu customization
+    * Advanced restart options
+
+Theme Settings
+----------
+* Font styles
+* Icon pack styles
+* Signal icon style
+* WiFi icon style
+* Icon shape
+
+Notifications
+----------
+* Alert slider notifications (device specific)
+* reTicker
+* Noisy notifications
+* Heads up
+* Less boring
+
+Sound
+----------
+* Volume panel on left toggle
+
+
+Misc
+----------
+* Game space
+* Unlock higher FPS in game toggle
+* Unlimited Google photos toggle
+* Swipe to screenshot
+* In-call vibration options
+* Vibrate on connect
+* Vibrate on call waiting
+* Vibrate on disconnect
+* Pocket detection - prevents device interaction when inside pocket
+
+About Cherish
+----------
+* Current changelog
+* Official website
+* Translations
+* Share cherish
+* Support us
+* Github
+* Cherish Community on Telegram
+* Telegram Updates channel
+* Sponsor
+* Updates (directly via OTA)
+* The drill
