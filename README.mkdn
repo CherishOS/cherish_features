@@ -24,7 +24,11 @@ Status Bar
     * Data disabled indicator
     * 4G icon toggle
     * Roaming indicator toggle
-    * VoLTE style toggle
+    * VoLTE/VoWifi style toggle
+    * Option toggling privacy indicators
+    * Forward-port notification counters
+    * Make app icons in statusbar optional 
+    * Ability to toggle bluetooth battery level
 * Battery customization
     * Battery style and percentage customization
     * Battery bar customization
@@ -64,6 +68,7 @@ Lock Screen
 * Misc
     * Disable power menu on secure lockscreen
     * Hide status bar on secure lockscreen
+    * Allow doubletap/longpress power to toggle torch
 
 Buttons
 ----------
@@ -120,11 +125,13 @@ Misc
 * Unlock higher FPS in game toggle
 * Unlimited Google photos toggle
 * Swipe to screenshot
+* Implement cutout force full screen
 * In-call vibration options
 * Vibrate on connect
 * Vibrate on call waiting
 * Vibrate on disconnect
 * Pocket detection - prevents device interaction when inside pocket
+* Display 'Fast charging' for dash charge in battery settings
 
 About Cherish
 ----------
