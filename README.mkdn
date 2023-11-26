@@ -43,6 +43,7 @@ Quick Settings
     * QS Clock font size
     * QS Date toggle
     * QS Brightness slider
+    * QS Header Image
 * Miscellaneous
     * Clock toggle
     * Date toggle
