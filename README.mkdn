@@ -1,34 +1,33 @@
 ![alt text][logo]
 
   [logo]:https://github.com/CherishOS/android_manifest/blob/tiramisu/assets/cherish.png ""
-* Below features are as of Sep 09 2022 in the CherishOS source.
-* Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
+* Below features are as of Nov 27 2023 in the CherishOS source.
+* A few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
 ----------
-* Always latest Android 13
+* Always latest Android 14
 * Pixel look and feel
 * OTA notification for officially supported devices
 * Optimized Art and Bionic
 * Updated libraries for better performance and security
-* Many under the hood changes for best exeperience!
+* Many under-the-hood changes for the best experience!
 
 Status Bar
 ----------
 * Icons
+    * Status bar Clock background chip
     * Status Bar icons toggle
     * Clock style
     * Clock & date customization
-    * Network Traffic monitor and customization
-    * Old style signal icon
+    * Network Traffic monitoring and customization
     * Data disabled indicator
     * 4G icon toggle
     * Roaming indicator toggle
     * VoLTE/VoWifi style toggle
     * Option toggling privacy indicators
     * Forward-port notification counters
-    * Make app icons in statusbar optional 
-    * Ability to toggle bluetooth battery level
+    * Make app icons in the status bar optional 
 * Battery customization
     * Battery style and percentage customization
     * Battery bar customization
@@ -43,31 +42,27 @@ Quick Settings
     * qs tiles/layout customizations
     * QS Clock font size
     * QS Date toggle
+    * QS Brightness slider
 * Miscellaneous
     * Clock toggle
     * Date toggle
     * Battery style
-    * Battery percentage
-    * Battery estimate
+    * Battery Percentage
     * Auto brightness toggle
     * Brightness control
     * Quick pulldown
-* Footer
-    * Data usauge toggle
 
 Lock Screen
 ----------
 * Interface
     * Media cover art toggle
     * Media cover art filter
+    * Pulse 
     * Battery info toggle
     * Tap to sleep toggle
-    * Edge light customizations
-    * Scheduling always on display
     
 * Misc
-    * Disable power menu on secure lockscreen
-    * Hide status bar on secure lockscreen
+    * Fingerprint authentication
     * Allow doubletap/longpress power to toggle torch
 
 Buttons
@@ -83,14 +78,16 @@ Buttons
     * Invert layout
     * Back long press action
     * Home long press action
-    * Home double tap action
+    * Home double-tap action
     * Recents long press action
 * Volume buttons
     * Volume steps customization
     * Wake device with HW non-capacitive button
     * Control playback with volume buttons
     * Keyboard cursor control with volume buttons
-    * Reorient volume keys on rotation change
+    * Reorient volume keys on a rotation change
+* Sound
+    * Volume panel on the left toggle
 
 Power
 ----------
@@ -100,6 +97,7 @@ Power
 
 Theme Settings
 ----------
+* Data icon styles
 * Font styles
 * Icon pack styles
 * Signal icon style
@@ -108,30 +106,33 @@ Theme Settings
 
 Notifications
 ----------
-* Alert slider notifications (device specific)
+* Alert slider notifications (device-specific)
 * reTicker
 * Noisy notifications
 * Heads up
+* Kill button to notification guts 
 * Less boring
-
-Sound
-----------
-* Volume panel on left toggle
-
-
-Misc
-----------
-* Game space
-* Unlock higher FPS in game toggle
-* Unlimited Google photos toggle
-* Swipe to screenshot
-* Implement cutout force full screen
 * In-call vibration options
 * Vibrate on connect
 * Vibrate on call waiting
 * Vibrate on disconnect
-* Pocket detection - prevents device interaction when inside pocket
+
+Misc
+----------
+* Resigned Setting UI
+* Face unlock
+* Game space
+* Lockscreen clock styles
+* Unlimited Google Photos toggle
+* Swipe to screenshot
+* Implement click to take a partial screenshot
+* Implement cutout force full-screen
+* Battery charging control
 * Display 'Fast charging' for dash charge in battery settings
+* Pocket detection - prevents device interaction when inside pocket
+* Smart Pixels 
+* Window ignores secure feature 
+* Other features
 
 About Cherish
 ----------
@@ -140,7 +141,7 @@ About Cherish
 * Translations
 * Share cherish
 * Support us
-* Github
+* GitHub
 * Cherish Community on Telegram
 * Telegram Updates channel
 * Sponsor
