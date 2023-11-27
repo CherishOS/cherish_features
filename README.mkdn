@@ -52,12 +52,12 @@ Quick Settings
     * Auto brightness toggle
     * Brightness control
     * Quick pulldown
+* Footer
+    * Toggle data usage view on the QS footer 
 
 Lock Screen
 ----------
 * Interface
-    * Media cover art toggle
-    * Media cover art filter
     * Pulse 
     * Battery info toggle
     * Tap to sleep toggle
@@ -104,6 +104,7 @@ Theme Settings
 * Signal icon style
 * WiFi icon style
 * Icon shape
+* Implement Volume Styles
 
 Notifications
 ----------
