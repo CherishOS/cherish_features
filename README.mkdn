@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://github.com/CherishOS/android_manifest/blob/tiramisu/assets/cherish.png ""
-* Below features are as of Nov 27 2023 in the CherishOS source.
+* Below features are as of Apr 17 2024 in the CherishOS source.
 * A few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
@@ -57,6 +57,8 @@ Quick Settings
 
 Lock Screen
 ----------
+* Udfps Animations
+* Udfps icon picker
 * Interface
     * Pulse 
     * Battery info toggle
@@ -98,6 +100,8 @@ Power
 
 Theme Settings
 ----------
+* A11 QS UI Style 
+* QS Panel style
 * Data icon styles
 * Font styles
 * Icon pack styles
@@ -108,8 +112,9 @@ Theme Settings
 
 Notifications
 ----------
+* Pulse ambient edge lightning settings
 * Alert slider notifications (device-specific)
-* reTicker
+* Island notifications
 * Noisy notifications
 * Heads up
 * Kill button to notification guts 
@@ -126,6 +131,8 @@ Misc
 * Game space
 * Lockscreen clock styles
 * Unlimited Google Photos toggle
+* Unlock higher FPS in games
+* Snapchat/ Netflix spoof
 * Swipe to screenshot
 * Implement click to take a partial screenshot
 * Implement cutout force full-screen
